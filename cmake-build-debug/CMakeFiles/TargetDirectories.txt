@@ -1,0 +1,3 @@
+/Users/axelkallgren/CLionProjects/projetenc/cmake-build-debug/CMakeFiles/projetenc.dir
+/Users/axelkallgren/CLionProjects/projetenc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/axelkallgren/CLionProjects/projetenc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
